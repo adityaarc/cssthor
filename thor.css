@@ -55,6 +55,11 @@
     font-style: oblique;
    letter-spacing: 3px;
    text-decoration-line: underline; 
+    
+    
+  @media only screen and (max-width: 480px) {
+      visibility:none;
+  }
 
 
 }
