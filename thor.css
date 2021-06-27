@@ -78,15 +78,12 @@
     margin-left: 50px;
 }
 
-  @media only screen and (max-width: 480px) {
-      #h-header{
-         visibility:none;
-      }
-      
-      #h-footer{
-        visibility:none;  
-      }
-         
-      
-  }
+ @media screen and (max-width: 800px) {
+    #h-header{
+        visibility: hidden;
+    }
+    #h-footer{
+        visibility: collapse;
+    }
+   }
 
