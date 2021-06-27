@@ -7,6 +7,7 @@ Website for Web-O-Code event:
 
 
 Deployment link:- 
+https://adityaarc.github.io/cssthor/
 
 Topic- HEALTHCARE
 
@@ -18,11 +19,10 @@ Software and Tools: HTML5,CSS,Javascript
 
 Multimedia Sources: Unsplash.com and other copyright-free sites.
 
-Main HTML file: _____________.html
+Main HTML file: index.html
 
-Main CSS file: ______________.css
+Main CSS file: thor.css
 
-Main Javascript file: ______________.js
 
 Team Members: Aviral Akash, Shivam Ojha, Aditiya Raj Choudhary
 
