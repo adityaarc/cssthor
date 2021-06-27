@@ -1,0 +1,119 @@
+body {
+    background-color: rgba(0, 0, 0,0);
+    margin: 0;
+    }
+    .topnav {
+        background-color: rgb(0, 0, 0);
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        
+      }
+      
+      
+      
+      
+      /* Style the links inside the navigation bar */
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 20px 40px;
+        text-decoration: none;
+        font-size: 17px;
+        letter-spacing: 3px;
+      }
+      
+      /* Change the color of links on hover */
+      .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      /* Add a color to the active/current link */
+      .topnav a.active {
+        background-color: #02ff41;
+        color: rgb(0, 0, 0);
+        
+      }
+      
+      #videoBG {
+        position:fixed;
+        z-index: -1;
+        /* width:100%; */
+        height:100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+        body{background: url("C:\Users\AVIRAL AKASH\Desktop\web dev workshop\EKG Heartrate Graph.mp4");
+          background-size: contain;
+    
+        }
+      #textdiv{
+        color: azure;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-top: 100px;
+        font-size: large;
+        letter-spacing: 5px;
+      }
+      
+        .Facilities{
+          margin-top: 500px;
+          float: left;
+          width: 100%;
+          color: rgb(0, 0, 0);
+          border: rgb(255, 255, 255) 2px solid;
+          border-radius: 25px;
+          padding: 4px;
+          background-color: floralwhite;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+          
+        }
+        .photo-right{
+          width: 500px;
+          height: 500px;
+          
+          float: left;
+ padding-left: 100px;
+          display: inline;
+          border-radius: 10%;
+        
+      }
+      .row {
+        display: flex;
+        margin-bottom: 50px;
+      }
+      
+      .column {
+        flex: 50%;
+      }
+         
+          
+          
+        .faci-text{
+          line-height: 50px;
+          font-size: larger;
+          text-align: left;
+          
+        }
+        .photo-left{width: 500px;
+          height: 500px;
+          
+          float: left;
+ padding-right: 100px;
+          display: inline;
+          border-radius: 10%;
+
+        }
+        .COVID-19{
+          background-color: rgb(255, 170, 0);
+          border-radius: 25px;
+          margin-top: 40px;
+          border: rgb(252, 122, 0) 2px solid;
+          padding: 4px;
+        }
+        
+        
+      
